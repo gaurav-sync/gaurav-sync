@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gauravsapkal
 - 👀 I’m passionate in software development
-- 🌱 I’m currently learning Automation Using Python and Full Stack Web development
+- 🌱 I’m currently learning Automation Using Python and Full Stack development
 - 💞️ I’m looking to collaborate on learning
 - 📫 reach me https://bit.ly/3wJACmx
 
