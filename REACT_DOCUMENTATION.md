@@ -1,3 +1,18 @@
+# REACT DOCUMENTATION
+
+## Index
+1. [What is React?](https://github.com/gauravsapkal/gauravsapkal/edit/main/REACT_DOCUMENTATION.md#1-what-is-react)
+2. [Who made React?](https://github.com/gauravsapkal/gauravsapkal/edit/main/REACT_DOCUMENTATION.md#2-who-made-react)
+3. [What is Babel?](https://github.com/gauravsapkal/gauravsapkal/edit/main/REACT_DOCUMENTATION.md#3-what-is-babel)
+4. [How does Babel convert html code in React into valid code?](https://github.com/gauravsapkal/gauravsapkal/edit/main/REACT_DOCUMENTATION.md#4-how-does-babel-convert-html-code-in-react-into-valid-code)
+5. [What is ReactDOM used for? Write an example?](https://github.com/gauravsapkal/gauravsapkal/edit/main/REACT_DOCUMENTATION.md#5-what-is-reactdom-used-for-write-an-example)
+6. [What are the packages that you need to import for react to work with?](https://github.com/gauravsapkal/gauravsapkal/edit/main/REACT_DOCUMENTATION.md#6-what-are-the-packages-that-you-need-to-import-for-react-to-work-with)
+7. [How do you add react to a web application?](https://github.com/gauravsapkal/gauravsapkal/edit/main/REACT_DOCUMENTATION.md#7-how-do-you-add-react-to-a-web-application)
+8. [What is React.createElement?](https://github.com/gauravsapkal/gauravsapkal/edit/main/REACT_DOCUMENTATION.md#8-what-is-reactcreateelement)
+9. [What are the three properties that createElement accept?](https://github.com/gauravsapkal/gauravsapkal/edit/main/REACT_DOCUMENTATION.md#9-what-are-the-three-properties-that-createelement-accept)
+10. [What is the meaning of render and root?](https://github.com/gauravsapkal/gauravsapkal/edit/main/REACT_DOCUMENTATION.md#10-what-is-the-meaning-of-render-and-root)
+<hr/>
+
 ### 1. What is React?
 --> React is a library of JavaScript for front-end. React is mainly used for building user interfaces based on UI components. React introduced/developed and maintained by Meta (Facebook) and a community of individual developers and companies. It is free and open-source JavaScript library. Main aim of React is to allow developers to easily create fast user interfaces for websites and applications.
 <hr/>
