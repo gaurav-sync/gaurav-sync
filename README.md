@@ -66,7 +66,7 @@
 
 <div>
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=gauravsapkal&show_icons=true&theme=dark" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsapkal&layout=compact&theme=dark" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-kr05&layout=compact&theme=dark" />
 </div>
  <br />
 <img src="https://activity-graph.herokuapp.com/graph?username=gauravsapkal&theme=react-dark" alt="activitygraph&theme=dark" /> 
