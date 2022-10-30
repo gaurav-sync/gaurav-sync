@@ -6,7 +6,7 @@
   <br>
    ## 👨🏻‍💻 About Me:
 
-<img  src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif" height="280px"  align="right" />
+<img  src="https://raw.githubusercontent.com/gauravsapkal/gauravsapkal/main/code.gif" height="280px"  align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://github.com/gauravsapkal)**
 
